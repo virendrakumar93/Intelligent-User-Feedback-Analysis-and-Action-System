@@ -1,0 +1,51 @@
+record_id,expected_category,expected_priority
+R001,Bug,Critical
+R002,Praise,Low
+R003,Feature Request,Medium
+R004,Complaint,High
+R005,Spam,Low
+R006,Bug,Medium
+R007,Praise,Low
+R008,Bug,High
+R009,Feature Request,Medium
+R010,Bug,High
+R011,Praise,Low
+R012,Bug,Critical
+R013,Feature Request,Medium
+R014,Spam,Low
+R015,Feature Request,Medium
+R016,Bug,High
+R017,Praise,Low
+R018,Complaint,Medium
+R019,Feature Request,Medium
+R020,Praise,Low
+R021,Bug,Critical
+R022,Praise,Low
+R023,Feature Request,Medium
+R024,Complaint,High
+R025,Feature Request,Low
+R026,Bug,High
+R027,Praise,Low
+R028,Spam,Low
+R029,Feature Request,Medium
+R030,Complaint,High
+E001,Bug,Critical
+E002,Feature Request,Medium
+E003,Praise,Low
+E004,Bug,Critical
+E005,Spam,Low
+E006,Bug,High
+E007,Feature Request,Medium
+E008,Feature Request,Medium
+E009,Complaint,High
+E010,Praise,Low
+E011,Bug,Critical
+E012,Feature Request,Low
+E013,Bug,High
+E014,Praise,Low
+E015,Complaint,Medium
+E016,Feature Request,Medium
+E017,Bug,Critical
+E018,Spam,Low
+E019,Feature Request,Medium
+E020,Feature Request,High

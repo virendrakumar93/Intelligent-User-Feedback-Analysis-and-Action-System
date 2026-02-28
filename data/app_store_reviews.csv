@@ -1,0 +1,31 @@
+review_id,user_name,rating,review_text,date,app_version,device
+R001,john_doe,1,"App crashes every time I try to open my profile page. Using iPhone 14 with iOS 17.2. Version 3.2.1 is completely broken after the latest update.",2024-12-15,3.2.1,iPhone 14
+R002,sarah_m,5,"Absolutely love this app! The new UI redesign is beautiful and intuitive. Best productivity app I've ever used. Five stars!",2024-12-14,3.2.1,Samsung Galaxy S23
+R003,tech_guru42,2,"Please add dark mode support. I use the app at night and the bright white screen is killing my eyes. Would be nice to have a toggle in settings.",2024-12-13,3.2.0,Pixel 8
+R004,angry_user99,1,"This is terrible! I paid $9.99 for premium and the sync feature hasn't worked for 3 weeks. Waste of money. I want a refund immediately!",2024-12-12,3.2.1,iPad Pro
+R005,spam_bot_123,1,"Click here for FREE money!!! Visit www.totally-legit-site.com for amazing deals! Buy now and earn $5000 daily!",2024-12-11,3.1.0,Android
+R006,maria_garcia,3,"The app is okay but slow on my Samsung Galaxy S21 with Android 13. Takes about 10 seconds to load the dashboard. Could use some optimization.",2024-12-10,3.2.0,Samsung Galaxy S21
+R007,dev_fan,5,"Great job on the latest update! The search feature is lightning fast now. Thank you for listening to user feedback. Highly recommend!",2024-12-09,3.2.1,iPhone 15
+R008,frustrated_user,1,"Login keeps failing with error code 403. I've tried resetting my password three times on iOS 16.5. Can't access my account at all since version 3.2.0.",2024-12-08,3.2.0,iPhone 13
+R009,product_thinker,4,"Good app overall. Would love to see integration with Google Calendar and Slack. The ability to export reports as PDF would also be super helpful.",2024-12-07,3.2.1,Pixel 7
+R010,casual_user,2,"App freezes randomly during video calls. Have to force close and restart. Happens at least 3 times a day on my Android 14 device. Very annoying glitch.",2024-12-06,3.2.1,Samsung Galaxy S24
+R011,happy_camper,5,"This app has genuinely improved my workflow. The team collaboration features are fantastic. Wonderful experience overall!",2024-12-05,3.2.1,MacBook Pro
+R012,data_worried,1,"All my saved projects disappeared after the update to 3.2.1! Months of work gone. This is unacceptable data loss. I had important files stored there.",2024-12-04,3.2.1,iPad Air
+R013,ux_designer,3,"The UI is clean but I wish there was an option to customize the dashboard layout. Also, adding widget support would make this app perfect.",2024-12-03,3.2.0,iPhone 14 Pro
+R014,spam_king,1,"CONGRATULATIONS! You've won a $1000 gift card! Claim your prize now at lottery-winner.com! Limited time offer act now!!!",2024-12-02,3.1.0,Android
+R015,enterprise_user,4,"Solid app for team management. Would be great to have SSO integration and admin role management. The current permission system is too basic.",2024-12-01,3.2.1,Windows
+R016,night_owl,2,"Black screen bug on startup since updating to 3.2.1. Have to close and reopen 5-6 times before it loads properly. Using Pixel 6 with Android 13.",2024-12-01,3.2.1,Pixel 6
+R017,power_user,5,"Impressed by the performance improvements in this update. Everything feels smooth and responsive. The developers clearly care about quality.",2024-11-30,3.2.1,iPhone 15 Pro
+R018,new_user_2024,1,"Horrible experience. The onboarding tutorial is confusing and misleading. Took me 30 minutes to figure out basic features. Very frustrating app.",2024-11-29,3.2.0,Samsung Galaxy A54
+R019,feature_lover,3,"Please add support for offline mode. I travel frequently and need to access my data without internet. Also would love Notion integration.",2024-11-28,3.2.1,iPad Pro
+R020,old_timer,4,"Been using this app for 2 years. It keeps getting better. The recent file sharing feature is excellent. Good job team!",2024-11-27,3.2.1,iPhone 12
+R021,bug_reporter,1,"Critical crash when uploading files larger than 10MB. App immediately force closes. Tested on Galaxy S23 with Android 14. Happens every single time.",2024-11-26,3.2.1,Samsung Galaxy S23
+R022,minimalist,5,"Perfect. Simple. Clean. Does exactly what I need without unnecessary bloat. Love the minimalist design approach. Recommend to everyone!",2024-11-25,3.2.1,Pixel 8
+R023,privacy_fan,3,"Would love end-to-end encryption for shared documents. Security is important. Also consider adding two-factor authentication option.",2024-11-24,3.2.0,iPhone 14
+R024,complainer_bob,1,"Worst app update ever. You completely ruined the navigation. Everything is harder to find now. The old layout was much better. Ridiculous decision.",2024-11-23,3.2.1,Android
+R025,student_user,4,"Really helpful for organizing my coursework. The tagging system is intuitive. Suggestion: add a Pomodoro timer feature for study sessions.",2024-11-22,3.2.1,MacBook Air
+R026,sync_issues,2,"Sync between my phone and tablet is completely broken. Changes I make on one device don't appear on the other. Very unreliable since v3.2.0.",2024-11-21,3.2.0,Samsung Galaxy Tab S9
+R027,grateful_user,5,"Thank you for fixing the notification bug from last update! Everything works perfectly now. This is why I love this development team.",2024-11-20,3.2.1,iPhone 15
+R028,spam_account_x,1,"Make $10000 from home! No experience needed! Visit earn-quick-cash.biz for details. Subscribe to my channel for more tips!!!",2024-11-19,3.1.0,Android
+R029,accessibility_advocate,3,"Please improve screen reader support. The app is almost great but several buttons are unlabeled. Also need better contrast options for low vision users.",2024-11-18,3.2.1,iPhone 14
+R030,disappointed_premium,1,"I'm furious about the premium pricing change. You increased the price by 50% with no new features. Feels like a scam. Lost all trust in this company.",2024-11-17,3.2.1,iPad
